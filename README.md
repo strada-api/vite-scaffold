@@ -4,7 +4,7 @@
 
 1. Fork the repository
 
-2. Clone the repository
+2. Clone your forked repository
 
 3. Install dependencies
 
